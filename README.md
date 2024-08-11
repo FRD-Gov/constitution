@@ -184,6 +184,8 @@ The Senators and Representatives before mentioned, and the Members of the severa
 
 All restrictions on eligibility for government positions based on the duration of citizenship shall only take effect 6 weeks after the ratification of this Constitution. Until that time, any citizen of the Federal Republic of Discordia shall be eligible for any government position, provided they meet all other requirements as set forth in this Constitution.
 
+To be eligible to hold any government position, an individual must have the Federal Republic of Discordia (FRD) as their primary guild on Disconomy.
+
 If a state does not have enough citizens to fill at least three distinct positions in Congress, one person may temporarily serve in multiple roles until the state has enough citizens to allow for separate individuals to fill each position. Once the state has sufficient citizens, the additional members shall assume their respective roles in Congress, and the individual holding multiple roles shall relinquish all but one. In all other circumstances, no individual shall hold more than one federal position simultaneously.
 
 ## Article VII.
