@@ -14,7 +14,7 @@ The actual enumeration of the people living therein will be completed within 4 w
 
 No person who has not been a citizen of the FRD for at least 1 week, who has been convicted of a high crime or misdemeanor, or barred from office by a federal court shall be a representative.
 
-The House of Representatives shall choose its officers.
+The House of Representatives shall choose their speaker and other officers.
 
 The House of Representatives shall have the sole power of impeachment, which may be used against an official of another branch in cases of high crimes, misdemeanors, or failure to carry out the duties of the position.
 
