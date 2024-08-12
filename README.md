@@ -142,7 +142,7 @@ The President, Vice President, and all civil Officers of the FRD shall be remove
 
 ### Section 5
 
-There shall be an executive council comprised of the founding fathers, the creators of the ratifying states along with the first president of the FRD. With a majority of the council's vote, they may declare a state of emergency and appoint an Emergency Regent. The Regent will have all permissions necessary to remedy any emergency situation without delays. Their position will last for 1 week, and then they will be demoted back to their former position. The Regent may be demoted before the week is up if the executive council unanimously votes to remove. 
+There shall be an executive council comprised of the founding fathers, the creators of the ratifying states along with the first president of the FRD. With a unanimous vote by the council, they may declare a state of emergency and appoint an Emergency Regent. The Regent will have all permissions necessary to remedy any emergency situation without delays. Their position will last for 1 week, and then they will be demoted back to their former position. The Regent may be demoted before the week is up if the executive council votes with a simple majority to remove. 
 
 In the case of a raid, if swift action is required, any member of the executive council may mute or ban raiders. If this action is taken, the Supreme Court will rule if this was acceptable. If a member was banned they will also rule on if that member should stay banned. 
 
