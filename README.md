@@ -195,3 +195,9 @@ New States may from time-to-time apply to join the Union. In order for a new Sta
 ## Article VIII.
 
 This Constitution will come into effect once all the states present at the signing of the constitution ratify this constitution. Immediately following this, elections will be held for the offices of Representative and Senator. After 1 day, the election for President of the FRD will be held.
+
+
+## Signatures
+
+### Nova Judea
+Pumpkin
